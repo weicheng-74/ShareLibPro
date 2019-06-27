@@ -1,7 +1,8 @@
-package com.twc.sharelibpro;
+package com.twc.mylib;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
+
 
 import com.umeng.socialize.ShareAction;
 import com.umeng.socialize.UMShareListener;
